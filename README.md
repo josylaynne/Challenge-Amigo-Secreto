@@ -71,6 +71,7 @@ Atualiza o elemento HTML responsável por mostrar o resultado do sorteio.
 Melhorias Futuras
 
 Implementar um sistema de armazenamento local (LocalStorage) para manter a lista entre sessões.
+Tive dificuldades para fazer esse código rodar, por que vivia dando erro e eu queria atear fogo no computador. E fora que sou bem iniciante e não achava o que estava errado, foi quando não aguentei mais e pedi ajuda ao chat gpt,acreditem era um ponto e vírgula que esqueci de colocar. Tenho muito a aprender mais foi legal fazer esse site.
 
 Melhorar o design da interface com CSS.
 
