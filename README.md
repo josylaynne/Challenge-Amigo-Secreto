@@ -2,7 +2,7 @@ Amigo Secreto - Gerenciador de Lista de Amigos
 
 Descrição
 
-Este projeto consiste em uma aplicação simples para gerenciar uma lista de amigos e sortear um nome aleatoriamente. Ele permite adicionar amigos à lista, remover amigos e realizar um sorteio para selecionar um amigo de forma aleatória.
+Este projeto consiste em uma aplicação simples para gerenciar uma lista de amigos e sortear um nome aleatoriamente. Ele permite adicionar amigos à lista e realizar um sorteio para selecionar um amigo de forma aleatória.
 
 Tecnologias Utilizadas
 
