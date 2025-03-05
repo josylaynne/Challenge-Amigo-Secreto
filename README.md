@@ -75,7 +75,5 @@ Tive dificuldades para fazer esse código rodar, por que vivia dando erro e eu q
 
 Melhorar o design da interface com CSS.
 
-Contribuição
 
-Contribuições são bem-vindas! Caso tenha sugestões ou melhorias, sinta-se à vontade para abrir um pull request.
 
